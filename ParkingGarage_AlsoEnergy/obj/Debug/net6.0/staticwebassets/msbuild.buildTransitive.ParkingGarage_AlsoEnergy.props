@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ParkingGarage_AlsoEnergy.props" />
+</Project>
